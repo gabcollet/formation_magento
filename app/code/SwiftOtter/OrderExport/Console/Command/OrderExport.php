@@ -2,7 +2,7 @@
 
 namespace SwiftOtter\OrderExport\Console\Command;
 
-use SwiftOtter\OrderExport\Action\CollectOrderData;
+use SwiftOtter\OrderExport\Action\ExportOrder;
 use SwiftOtter\OrderExport\Model\HeaderData;
 use SwiftOtter\OrderExport\Model\HeaderDataFactory;
 use Symfony\Component\Console\Input\InputArgument;
@@ -17,17 +17,17 @@ class OrderExport extends Command
     const OPT_NAME_SHIP_DATE = 'ship-date';
     const OPT_NAME_NOTES = 'notes';
     private HeaderDataFactory $headerDataFactory;
-    private CollectOrderData $collectOrderData;
+    private ExportOrder $exportOrder;
 
     public function __construct(
         HeaderDataFactory $headerDataFactory,
-        CollectOrderData $collectOrderData,
+        ExportOrder $exportOrder,
         string $name = null
     )
     {
         parent::__construct($name);
         $this->headerDataFactory = $headerDataFactory;
-        $this->collectOrderData = $collectOrderData;
+        $this->exportOrder = $exportOrder;
     }
 
     /**
@@ -76,9 +76,18 @@ class OrderExport extends Command
             $headerData->setMerchantNotes($notes);
         }
 
-        $orderData = $this->collectOrderData->execute($orderId, $headerData);
-
-        $output->writeln(print_r($orderData, true));
+        $result = $this->exportOrder->execute((int) $orderId, $headerData);
+        $success = $result['success'] ?? false;
+        if ($success) {
+            $output->writeln(__('Successfully exported order'));
+        } else {
+            $msg = $result['error'] ?? null;
+            if ($msg === null) {
+                $msg = __('Unexpected errors occurred');
+            }
+            $output->writeln($msg);
+            return 1;
+        }
 
         return 0;
     }
