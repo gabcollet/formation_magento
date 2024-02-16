@@ -1,0 +1,514 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1708112277;s:6:"expire";i:1708198677;s:4:"tags";s:93:"69d_CAT_P,69d_BLOCK_HTML,69d_CAT_P_1556,69d_CAT_P_1812,69d_CAT_P_1108,69d_CAT_P_1896,69d_MAGE";}
+        <div class="block widget block-products-list grid">
+                <div class="block-content">
+            <!-- new_products_content_widget_grid-->            <div class="products-grid grid">
+                <ol class="product-items widget-product-grid">
+                                                                <li class="product-item">                        <div class="product-item-info">
+                            <a href="https://app.magento2.test/radiant-tee.html" class="product-item-photo">
+                                <span class="product-image-container product-image-container-1556">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="https://app.magento2.test/media/catalog/product/cache/ddeb78d2f6735f535a8ca5351e57232f/w/s/ws12-orange_main_4.jpg"
+            loading="lazy"
+            width="240"
+            height="300"
+            alt="Radiant&#x20;Tee"/></span>
+</span>
+<style>.product-image-container-1556 {
+    width: 240px;
+}
+.product-image-container-1556 span.product-image-wrapper {
+    padding-bottom: 125%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-1556");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "240px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-1556  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "125%";
+}</script>                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="Radiant Tee"
+                                       href="https://app.magento2.test/radiant-tee.html"
+                                       class="product-item-link">
+                                        Radiant Tee                                    </a>
+                                </strong>
+                                                                            <div class="product-reviews-summary short">
+                <div class="rating-summary">
+            <span class="label"><span>Rating:</span></span>
+            <div class="rating-result"
+                 id="rating-result_1556"
+                 title="60%">
+                <span><span>60%</span></span>
+            </div>
+            <script type="text&#x2F;javascript">    var elem5ZhqNKuCArray = document.querySelectorAll('#rating-result_1556 span');
+    if(elem5ZhqNKuCArray.length !== 'undefined'){
+        elem5ZhqNKuCArray.forEach(function(element) {
+            if (element) {
+                element.style.width = '60%';
+
+            }
+        });
+    }</script>        </div>
+                <div class="reviews-actions">
+            <a class="action view"
+               href="https://app.magento2.test/radiant-tee.html#reviews">3                &nbsp;<span>Reviews                </span>
+            </a>
+        </div>
+    </div>
+                                
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="1556" data-price-box="product-id-1556"><span class="normal-price">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">As low as</span>
+        <span  id="old-price-1556-widget-product-grid"                data-price-amount="22"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$22.00</span></span>
+        </span>
+</span>
+
+
+</div>
+                                                <div class="swatch-opt-1556"
+         data-role="swatch-option-1556"></div>
+
+    <script type="text/x-magento-init">
+        {
+            "[data-role=swatch-option-1556]": {
+                "Magento_Swatches/js/swatch-renderer": {
+                    "selectorProduct": ".product-item-details",
+                    "onlySwatches": true,
+                    "enableControlLabel": false,
+                    "numberToShow": 16,
+                    "jsonConfig": {"attributes":{"142":{"id":"142","code":"size","label":"Size","options":[{"id":"166","label":"XS","products":["1541","1542","1543"]},{"id":"167","label":"S","products":["1544","1545","1546"]},{"id":"168","label":"M","products":["1547","1548","1549"]},{"id":"169","label":"L","products":["1550","1551","1552"]},{"id":"170","label":"XL","products":["1553","1554","1555"]}],"position":"0"},"93":{"id":"93","code":"color","label":"Color","options":[{"id":"50","label":"Blue","products":["1541","1544","1547","1550","1553"]},{"id":"56","label":"Orange","products":["1542","1545","1548","1551","1554"]},{"id":"57","label":"Purple","products":["1543","1546","1549","1552","1555"]}],"position":"1"}},"template":"$<%- data.price %>","currencyFormat":"$%s","optionPrices":{"1541":{"baseOldPrice":{"amount":22},"oldPrice":{"amount":22},"basePrice":{"amount":22},"finalPrice":{"amount":22},"tierPrices":[],"msrpPrice":{"amount":0}},"1542":{"baseOldPrice":{"amount":22},"oldPrice":{"amount":22},"basePrice":{"amount":22},"finalPrice":{"amount":22},"tierPrices":[],"msrpPrice":{"amount":0}},"1543":{"baseOldPrice":{"amount":22},"oldPrice":{"amount":22},"basePrice":{"amount":22},"finalPrice":{"amount":22},"tierPrices":[],"msrpPrice":{"amount":0}},"1544":{"baseOldPrice":{"amount":22},"oldPrice":{"amount":22},"basePrice":{"amount":22},"finalPrice":{"amount":22},"tierPrices":[],"msrpPrice":{"amount":0}},"1545":{"baseOldPrice":{"amount":22},"oldPrice":{"amount":22},"basePrice":{"amount":22},"finalPrice":{"amount":22},"tierPrices":[],"msrpPrice":{"amount":0}},"1546":{"baseOldPrice":{"amount":22},"oldPrice":{"amount":22},"basePrice":{"amount":22},"finalPrice":{"amount":22},"tierPrices":[],"msrpPrice":{"amount":0}},"1547":{"baseOldPrice":{"amount":22},"oldPrice":{"amount":22},"basePrice":{"amount":22},"finalPrice":{"amount":22},"tierPrices":[],"msrpPrice":{"amount":0}},"1548":{"baseOldPrice":{"amount":22},"oldPrice":{"amount":22},"basePrice":{"amount":22},"finalPrice":{"amount":22},"tierPrices":[],"msrpPrice":{"amount":0}},"1549":{"baseOldPrice":{"amount":22},"oldPrice":{"amount":22},"basePrice":{"amount":22},"finalPrice":{"amount":22},"tierPrices":[],"msrpPrice":{"amount":0}},"1550":{"baseOldPrice":{"amount":22},"oldPrice":{"amount":22},"basePrice":{"amount":22},"finalPrice":{"amount":22},"tierPrices":[],"msrpPrice":{"amount":0}},"1551":{"baseOldPrice":{"amount":22},"oldPrice":{"amount":22},"basePrice":{"amount":22},"finalPrice":{"amount":22},"tierPrices":[],"msrpPrice":{"amount":0}},"1552":{"baseOldPrice":{"amount":22},"oldPrice":{"amount":22},"basePrice":{"amount":22},"finalPrice":{"amount":22},"tierPrices":[],"msrpPrice":{"amount":0}},"1553":{"baseOldPrice":{"amount":22},"oldPrice":{"amount":22},"basePrice":{"amount":22},"finalPrice":{"amount":22},"tierPrices":[],"msrpPrice":{"amount":0}},"1554":{"baseOldPrice":{"amount":22},"oldPrice":{"amount":22},"basePrice":{"amount":22},"finalPrice":{"amount":22},"tierPrices":[],"msrpPrice":{"amount":0}},"1555":{"baseOldPrice":{"amount":22},"oldPrice":{"amount":22},"basePrice":{"amount":22},"finalPrice":{"amount":22},"tierPrices":[],"msrpPrice":{"amount":0}}},"priceFormat":{"pattern":"$%s","precision":2,"requiredPrecision":2,"decimalSymbol":".","groupSymbol":",","groupLength":3,"integerRequired":false},"prices":{"baseOldPrice":{"amount":22},"oldPrice":{"amount":22},"basePrice":{"amount":22},"finalPrice":{"amount":22}},"productId":"1556","chooseText":"Choose an Option...","images":[],"index":{"1541":{"142":"166","93":"50"},"1542":{"142":"166","93":"56"},"1543":{"142":"166","93":"57"},"1544":{"142":"167","93":"50"},"1545":{"142":"167","93":"56"},"1546":{"142":"167","93":"57"},"1547":{"142":"168","93":"50"},"1548":{"142":"168","93":"56"},"1549":{"142":"168","93":"57"},"1550":{"142":"169","93":"50"},"1551":{"142":"169","93":"56"},"1552":{"142":"169","93":"57"},"1553":{"142":"170","93":"50"},"1554":{"142":"170","93":"56"},"1555":{"142":"170","93":"57"}},"salable":[],"canDisplayShowOutOfStockStatus":false,"channel":"website","salesChannelCode":"base","sku":{"1541":"WS12-XS-Blue","1542":"WS12-XS-Orange","1543":"WS12-XS-Purple","1544":"WS12-S-Blue","1545":"WS12-S-Orange","1546":"WS12-S-Purple","1547":"WS12-M-Blue","1548":"WS12-M-Orange","1549":"WS12-M-Purple","1550":"WS12-L-Blue","1551":"WS12-L-Orange","1552":"WS12-L-Purple","1553":"WS12-XL-Blue","1554":"WS12-XL-Orange","1555":"WS12-XL-Purple"}},
+                    "jsonSwatchConfig": {"142":{"166":{"type":"0","value":"XS","label":"XS"},"167":{"type":"0","value":"S","label":"S"},"168":{"type":"0","value":"M","label":"M"},"169":{"type":"0","value":"L","label":"L"},"170":{"type":"0","value":"XL","label":"XL"},"additional_data":"{\"swatch_input_type\":\"text\",\"update_product_preview_image\":1,\"use_product_image_for_swatch\":0}"},"93":{"50":{"type":"1","value":"#1857f7","label":"Blue"},"56":{"type":"1","value":"#eb6703","label":"Orange"},"57":{"type":"1","value":"#ef3dff","label":"Purple"},"additional_data":"{\"swatch_input_type\":\"visual\",\"update_product_preview_image\":1,\"use_product_image_for_swatch\":0}"}},
+                    "mediaCallback": "https\u003A\u002F\u002Fapp.magento2.test\u002Fswatches\u002Fajax\u002Fmedia\u002F",
+                    "jsonSwatchImageSizeConfig": {"swatchImage":{"width":30,"height":20},"swatchThumb":{"height":90,"width":110}},
+                    "showTooltip": 1                }
+            }
+        }
+    </script>
+
+    <script type="text/x-magento-init">
+        {
+            "[data-role=priceBox][data-price-box=product-id-1556]": {
+                "priceBox": {
+                    "priceConfig": {
+                        "priceFormat": {"pattern":"$%s","precision":2,"requiredPrecision":2,"decimalSymbol":".","groupSymbol":",","groupLength":3,"integerRequired":false},
+                        "prices": {"baseOldPrice":{"amount":22},"oldPrice":{"amount":22},"basePrice":{"amount":22},"finalPrice":{"amount":22}}                    }
+                }
+            }
+        }
+    </script>
+
+                                                                    <div class="product-item-inner">
+                                        <div class="product-item-actions">
+                                                                                            <div class="actions-primary">
+                                                                                                                                                                    <form data-role="tocart-form" data-product-sku="WS12" action="https://app.magento2.test/checkout/cart/add/uenc/aHR0cHM6Ly9hcHAubWFnZW50bzIudGVzdC93b21lbi5odG1s/product/1556/" method="post">
+                                                            <input type="hidden" name="product" value="1556">
+                                                            <input type="hidden" name="uenc" value="aHR0cHM6Ly9hcHAubWFnZW50bzIudGVzdC9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjSE02THk5aGNIQXViV0ZuWlc1MGJ6SXVkR1Z6ZEM5M2IyMWxiaTVvZEcxcy9wcm9kdWN0LzE1NTYv">
+                                                            <input name="form_key" type="hidden" value="robJBuc8C4VEIZsa" />                                                            <button type="submit"
+                                                                    title="Add to Cart"
+                                                                    class="action tocart primary">
+                                                                <span>Add to Cart</span>
+                                                            </button>
+                                                        </form>
+                                                                                                    </div>
+                                                                                                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"https:\/\/app.magento2.test\/wishlist\/index\/add\/","data":{"product":1556,"uenc":"aHR0cHM6Ly9hcHAubWFnZW50bzIudGVzdC93b21lbi5odG1s"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"https:\/\/app.magento2.test\/catalog\/product_compare\/add\/","data":{"product":"1556","uenc":"aHR0cHM6Ly9hcHAubWFnZW50bzIudGVzdC93b21lbi5odG1s"}}' title="Add&#x20;to&#x20;Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                                                                    </div>
+                                    </div>
+                                                            </div>
+                        </div>
+                                                                    </li><li class="product-item">                        <div class="product-item-info">
+                            <a href="https://app.magento2.test/breathe-easy-tank.html" class="product-item-photo">
+                                <span class="product-image-container product-image-container-1812">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="https://app.magento2.test/media/catalog/product/cache/ddeb78d2f6735f535a8ca5351e57232f/w/t/wt09-white_main_2.jpg"
+            loading="lazy"
+            width="240"
+            height="300"
+            alt="Breathe-Easy&#x20;Tank"/></span>
+</span>
+<style>.product-image-container-1812 {
+    width: 240px;
+}
+.product-image-container-1812 span.product-image-wrapper {
+    padding-bottom: 125%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-1812");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "240px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-1812  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "125%";
+}</script>                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="Breathe-Easy Tank"
+                                       href="https://app.magento2.test/breathe-easy-tank.html"
+                                       class="product-item-link">
+                                        Breathe-Easy Tank                                    </a>
+                                </strong>
+                                                                            <div class="product-reviews-summary short">
+                <div class="rating-summary">
+            <span class="label"><span>Rating:</span></span>
+            <div class="rating-result"
+                 id="rating-result_1812"
+                 title="70%">
+                <span><span>70%</span></span>
+            </div>
+            <script type="text&#x2F;javascript">    var elemFOc6CQSyArray = document.querySelectorAll('#rating-result_1812 span');
+    if(elemFOc6CQSyArray.length !== 'undefined'){
+        elemFOc6CQSyArray.forEach(function(element) {
+            if (element) {
+                element.style.width = '70%';
+
+            }
+        });
+    }</script>        </div>
+                <div class="reviews-actions">
+            <a class="action view"
+               href="https://app.magento2.test/breathe-easy-tank.html#reviews">2                &nbsp;<span>Reviews                </span>
+            </a>
+        </div>
+    </div>
+                                
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="1812" data-price-box="product-id-1812"><span class="normal-price">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">As low as</span>
+        <span  id="old-price-1812-widget-product-grid"                data-price-amount="34"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$34.00</span></span>
+        </span>
+</span>
+
+
+</div>
+                                                <div class="swatch-opt-1812"
+         data-role="swatch-option-1812"></div>
+
+    <script type="text/x-magento-init">
+        {
+            "[data-role=swatch-option-1812]": {
+                "Magento_Swatches/js/swatch-renderer": {
+                    "selectorProduct": ".product-item-details",
+                    "onlySwatches": true,
+                    "enableControlLabel": false,
+                    "numberToShow": 16,
+                    "jsonConfig": {"attributes":{"142":{"id":"142","code":"size","label":"Size","options":[{"id":"166","label":"XS","products":["1797","1798","1799"]},{"id":"167","label":"S","products":["1800","1801","1802"]},{"id":"168","label":"M","products":["1803","1804","1805"]},{"id":"169","label":"L","products":["1806","1807","1808"]},{"id":"170","label":"XL","products":["1809","1810","1811"]}],"position":"0"},"93":{"id":"93","code":"color","label":"Color","options":[{"id":"57","label":"Purple","products":["1797","1800","1803","1806","1809"]},{"id":"59","label":"White","products":["1798","1801","1804","1807","1810"]},{"id":"60","label":"Yellow","products":["1799","1802","1805","1808","1811"]}],"position":"1"}},"template":"$<%- data.price %>","currencyFormat":"$%s","optionPrices":{"1797":{"baseOldPrice":{"amount":34},"oldPrice":{"amount":34},"basePrice":{"amount":34},"finalPrice":{"amount":34},"tierPrices":[],"msrpPrice":{"amount":0}},"1798":{"baseOldPrice":{"amount":34},"oldPrice":{"amount":34},"basePrice":{"amount":34},"finalPrice":{"amount":34},"tierPrices":[],"msrpPrice":{"amount":0}},"1799":{"baseOldPrice":{"amount":34},"oldPrice":{"amount":34},"basePrice":{"amount":34},"finalPrice":{"amount":34},"tierPrices":[],"msrpPrice":{"amount":0}},"1800":{"baseOldPrice":{"amount":34},"oldPrice":{"amount":34},"basePrice":{"amount":34},"finalPrice":{"amount":34},"tierPrices":[],"msrpPrice":{"amount":0}},"1801":{"baseOldPrice":{"amount":34},"oldPrice":{"amount":34},"basePrice":{"amount":34},"finalPrice":{"amount":34},"tierPrices":[],"msrpPrice":{"amount":0}},"1802":{"baseOldPrice":{"amount":34},"oldPrice":{"amount":34},"basePrice":{"amount":34},"finalPrice":{"amount":34},"tierPrices":[],"msrpPrice":{"amount":0}},"1803":{"baseOldPrice":{"amount":34},"oldPrice":{"amount":34},"basePrice":{"amount":34},"finalPrice":{"amount":34},"tierPrices":[],"msrpPrice":{"amount":0}},"1804":{"baseOldPrice":{"amount":34},"oldPrice":{"amount":34},"basePrice":{"amount":34},"finalPrice":{"amount":34},"tierPrices":[],"msrpPrice":{"amount":0}},"1805":{"baseOldPrice":{"amount":34},"oldPrice":{"amount":34},"basePrice":{"amount":34},"finalPrice":{"amount":34},"tierPrices":[],"msrpPrice":{"amount":0}},"1806":{"baseOldPrice":{"amount":34},"oldPrice":{"amount":34},"basePrice":{"amount":34},"finalPrice":{"amount":34},"tierPrices":[],"msrpPrice":{"amount":0}},"1807":{"baseOldPrice":{"amount":34},"oldPrice":{"amount":34},"basePrice":{"amount":34},"finalPrice":{"amount":34},"tierPrices":[],"msrpPrice":{"amount":0}},"1808":{"baseOldPrice":{"amount":34},"oldPrice":{"amount":34},"basePrice":{"amount":34},"finalPrice":{"amount":34},"tierPrices":[],"msrpPrice":{"amount":0}},"1809":{"baseOldPrice":{"amount":34},"oldPrice":{"amount":34},"basePrice":{"amount":34},"finalPrice":{"amount":34},"tierPrices":[],"msrpPrice":{"amount":0}},"1810":{"baseOldPrice":{"amount":34},"oldPrice":{"amount":34},"basePrice":{"amount":34},"finalPrice":{"amount":34},"tierPrices":[],"msrpPrice":{"amount":0}},"1811":{"baseOldPrice":{"amount":34},"oldPrice":{"amount":34},"basePrice":{"amount":34},"finalPrice":{"amount":34},"tierPrices":[],"msrpPrice":{"amount":0}}},"priceFormat":{"pattern":"$%s","precision":2,"requiredPrecision":2,"decimalSymbol":".","groupSymbol":",","groupLength":3,"integerRequired":false},"prices":{"baseOldPrice":{"amount":34},"oldPrice":{"amount":34},"basePrice":{"amount":34},"finalPrice":{"amount":34}},"productId":"1812","chooseText":"Choose an Option...","images":[],"index":{"1797":{"142":"166","93":"57"},"1798":{"142":"166","93":"59"},"1799":{"142":"166","93":"60"},"1800":{"142":"167","93":"57"},"1801":{"142":"167","93":"59"},"1802":{"142":"167","93":"60"},"1803":{"142":"168","93":"57"},"1804":{"142":"168","93":"59"},"1805":{"142":"168","93":"60"},"1806":{"142":"169","93":"57"},"1807":{"142":"169","93":"59"},"1808":{"142":"169","93":"60"},"1809":{"142":"170","93":"57"},"1810":{"142":"170","93":"59"},"1811":{"142":"170","93":"60"}},"salable":[],"canDisplayShowOutOfStockStatus":false,"channel":"website","salesChannelCode":"base","sku":{"1797":"WT09-XS-Purple","1798":"WT09-XS-White","1799":"WT09-XS-Yellow","1800":"WT09-S-Purple","1801":"WT09-S-White","1802":"WT09-S-Yellow","1803":"WT09-M-Purple","1804":"WT09-M-White","1805":"WT09-M-Yellow","1806":"WT09-L-Purple","1807":"WT09-L-White","1808":"WT09-L-Yellow","1809":"WT09-XL-Purple","1810":"WT09-XL-White","1811":"WT09-XL-Yellow"}},
+                    "jsonSwatchConfig": {"142":{"166":{"type":"0","value":"XS","label":"XS"},"167":{"type":"0","value":"S","label":"S"},"168":{"type":"0","value":"M","label":"M"},"169":{"type":"0","value":"L","label":"L"},"170":{"type":"0","value":"XL","label":"XL"},"additional_data":"{\"swatch_input_type\":\"text\",\"update_product_preview_image\":1,\"use_product_image_for_swatch\":0}"},"93":{"57":{"type":"1","value":"#ef3dff","label":"Purple"},"59":{"type":"1","value":"#ffffff","label":"White"},"60":{"type":"1","value":"#ffd500","label":"Yellow"},"additional_data":"{\"swatch_input_type\":\"visual\",\"update_product_preview_image\":1,\"use_product_image_for_swatch\":0}"}},
+                    "mediaCallback": "https\u003A\u002F\u002Fapp.magento2.test\u002Fswatches\u002Fajax\u002Fmedia\u002F",
+                    "jsonSwatchImageSizeConfig": {"swatchImage":{"width":30,"height":20},"swatchThumb":{"height":90,"width":110}},
+                    "showTooltip": 1                }
+            }
+        }
+    </script>
+
+    <script type="text/x-magento-init">
+        {
+            "[data-role=priceBox][data-price-box=product-id-1812]": {
+                "priceBox": {
+                    "priceConfig": {
+                        "priceFormat": {"pattern":"$%s","precision":2,"requiredPrecision":2,"decimalSymbol":".","groupSymbol":",","groupLength":3,"integerRequired":false},
+                        "prices": {"baseOldPrice":{"amount":34},"oldPrice":{"amount":34},"basePrice":{"amount":34},"finalPrice":{"amount":34}}                    }
+                }
+            }
+        }
+    </script>
+
+                                                                    <div class="product-item-inner">
+                                        <div class="product-item-actions">
+                                                                                            <div class="actions-primary">
+                                                                                                                                                                    <form data-role="tocart-form" data-product-sku="WT09" action="https://app.magento2.test/checkout/cart/add/uenc/aHR0cHM6Ly9hcHAubWFnZW50bzIudGVzdC93b21lbi5odG1s/product/1812/" method="post">
+                                                            <input type="hidden" name="product" value="1812">
+                                                            <input type="hidden" name="uenc" value="aHR0cHM6Ly9hcHAubWFnZW50bzIudGVzdC9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjSE02THk5aGNIQXViV0ZuWlc1MGJ6SXVkR1Z6ZEM5M2IyMWxiaTVvZEcxcy9wcm9kdWN0LzE4MTIv">
+                                                            <input name="form_key" type="hidden" value="robJBuc8C4VEIZsa" />                                                            <button type="submit"
+                                                                    title="Add to Cart"
+                                                                    class="action tocart primary">
+                                                                <span>Add to Cart</span>
+                                                            </button>
+                                                        </form>
+                                                                                                    </div>
+                                                                                                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"https:\/\/app.magento2.test\/wishlist\/index\/add\/","data":{"product":1812,"uenc":"aHR0cHM6Ly9hcHAubWFnZW50bzIudGVzdC93b21lbi5odG1s"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"https:\/\/app.magento2.test\/catalog\/product_compare\/add\/","data":{"product":"1812","uenc":"aHR0cHM6Ly9hcHAubWFnZW50bzIudGVzdC93b21lbi5odG1s"}}' title="Add&#x20;to&#x20;Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                                                                    </div>
+                                    </div>
+                                                            </div>
+                        </div>
+                                                                    </li><li class="product-item">                        <div class="product-item-info">
+                            <a href="https://app.magento2.test/selene-yoga-hoodie.html" class="product-item-photo">
+                                <span class="product-image-container product-image-container-1108">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="https://app.magento2.test/media/catalog/product/cache/ddeb78d2f6735f535a8ca5351e57232f/w/h/wh05-white_main_2.jpg"
+            loading="lazy"
+            width="240"
+            height="300"
+            alt="Selene&#x20;Yoga&#x20;Hoodie"/></span>
+</span>
+<style>.product-image-container-1108 {
+    width: 240px;
+}
+.product-image-container-1108 span.product-image-wrapper {
+    padding-bottom: 125%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-1108");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "240px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-1108  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "125%";
+}</script>                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="Selene Yoga Hoodie"
+                                       href="https://app.magento2.test/selene-yoga-hoodie.html"
+                                       class="product-item-link">
+                                        Selene Yoga Hoodie                                    </a>
+                                </strong>
+                                                                            <div class="product-reviews-summary short">
+                <div class="rating-summary">
+            <span class="label"><span>Rating:</span></span>
+            <div class="rating-result"
+                 id="rating-result_1108"
+                 title="80%">
+                <span><span>80%</span></span>
+            </div>
+            <script type="text&#x2F;javascript">    var elemtamlYbt8Array = document.querySelectorAll('#rating-result_1108 span');
+    if(elemtamlYbt8Array.length !== 'undefined'){
+        elemtamlYbt8Array.forEach(function(element) {
+            if (element) {
+                element.style.width = '80%';
+
+            }
+        });
+    }</script>        </div>
+                <div class="reviews-actions">
+            <a class="action view"
+               href="https://app.magento2.test/selene-yoga-hoodie.html#reviews">3                &nbsp;<span>Reviews                </span>
+            </a>
+        </div>
+    </div>
+                                
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="1108" data-price-box="product-id-1108"><span class="normal-price">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">As low as</span>
+        <span  id="old-price-1108-widget-product-grid"                data-price-amount="42"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$42.00</span></span>
+        </span>
+</span>
+
+
+</div>
+                                                <div class="swatch-opt-1108"
+         data-role="swatch-option-1108"></div>
+
+    <script type="text/x-magento-init">
+        {
+            "[data-role=swatch-option-1108]": {
+                "Magento_Swatches/js/swatch-renderer": {
+                    "selectorProduct": ".product-item-details",
+                    "onlySwatches": true,
+                    "enableControlLabel": false,
+                    "numberToShow": 16,
+                    "jsonConfig": {"attributes":{"142":{"id":"142","code":"size","label":"Size","options":[{"id":"166","label":"XS","products":["1093","1094","1095"]},{"id":"167","label":"S","products":["1096","1097","1098"]},{"id":"168","label":"M","products":["1099","1100","1101"]},{"id":"169","label":"L","products":["1102","1103","1104"]},{"id":"170","label":"XL","products":["1105","1106","1107"]}],"position":"0"},"93":{"id":"93","code":"color","label":"Color","options":[{"id":"56","label":"Orange","products":["1093","1096","1099","1102","1105"]},{"id":"57","label":"Purple","products":["1094","1097","1100","1103","1106"]},{"id":"59","label":"White","products":["1095","1098","1101","1104","1107"]}],"position":"1"}},"template":"$<%- data.price %>","currencyFormat":"$%s","optionPrices":{"1093":{"baseOldPrice":{"amount":42},"oldPrice":{"amount":42},"basePrice":{"amount":42},"finalPrice":{"amount":42},"tierPrices":[],"msrpPrice":{"amount":0}},"1094":{"baseOldPrice":{"amount":42},"oldPrice":{"amount":42},"basePrice":{"amount":42},"finalPrice":{"amount":42},"tierPrices":[],"msrpPrice":{"amount":0}},"1095":{"baseOldPrice":{"amount":42},"oldPrice":{"amount":42},"basePrice":{"amount":42},"finalPrice":{"amount":42},"tierPrices":[],"msrpPrice":{"amount":0}},"1096":{"baseOldPrice":{"amount":42},"oldPrice":{"amount":42},"basePrice":{"amount":42},"finalPrice":{"amount":42},"tierPrices":[],"msrpPrice":{"amount":0}},"1097":{"baseOldPrice":{"amount":42},"oldPrice":{"amount":42},"basePrice":{"amount":42},"finalPrice":{"amount":42},"tierPrices":[],"msrpPrice":{"amount":0}},"1098":{"baseOldPrice":{"amount":42},"oldPrice":{"amount":42},"basePrice":{"amount":42},"finalPrice":{"amount":42},"tierPrices":[],"msrpPrice":{"amount":0}},"1099":{"baseOldPrice":{"amount":42},"oldPrice":{"amount":42},"basePrice":{"amount":42},"finalPrice":{"amount":42},"tierPrices":[],"msrpPrice":{"amount":0}},"1100":{"baseOldPrice":{"amount":42},"oldPrice":{"amount":42},"basePrice":{"amount":42},"finalPrice":{"amount":42},"tierPrices":[],"msrpPrice":{"amount":0}},"1101":{"baseOldPrice":{"amount":42},"oldPrice":{"amount":42},"basePrice":{"amount":42},"finalPrice":{"amount":42},"tierPrices":[],"msrpPrice":{"amount":0}},"1102":{"baseOldPrice":{"amount":42},"oldPrice":{"amount":42},"basePrice":{"amount":42},"finalPrice":{"amount":42},"tierPrices":[],"msrpPrice":{"amount":0}},"1103":{"baseOldPrice":{"amount":42},"oldPrice":{"amount":42},"basePrice":{"amount":42},"finalPrice":{"amount":42},"tierPrices":[],"msrpPrice":{"amount":0}},"1104":{"baseOldPrice":{"amount":42},"oldPrice":{"amount":42},"basePrice":{"amount":42},"finalPrice":{"amount":42},"tierPrices":[],"msrpPrice":{"amount":0}},"1105":{"baseOldPrice":{"amount":42},"oldPrice":{"amount":42},"basePrice":{"amount":42},"finalPrice":{"amount":42},"tierPrices":[],"msrpPrice":{"amount":0}},"1106":{"baseOldPrice":{"amount":42},"oldPrice":{"amount":42},"basePrice":{"amount":42},"finalPrice":{"amount":42},"tierPrices":[],"msrpPrice":{"amount":0}},"1107":{"baseOldPrice":{"amount":42},"oldPrice":{"amount":42},"basePrice":{"amount":42},"finalPrice":{"amount":42},"tierPrices":[],"msrpPrice":{"amount":0}}},"priceFormat":{"pattern":"$%s","precision":2,"requiredPrecision":2,"decimalSymbol":".","groupSymbol":",","groupLength":3,"integerRequired":false},"prices":{"baseOldPrice":{"amount":42},"oldPrice":{"amount":42},"basePrice":{"amount":42},"finalPrice":{"amount":42}},"productId":"1108","chooseText":"Choose an Option...","images":[],"index":{"1093":{"142":"166","93":"56"},"1094":{"142":"166","93":"57"},"1095":{"142":"166","93":"59"},"1096":{"142":"167","93":"56"},"1097":{"142":"167","93":"57"},"1098":{"142":"167","93":"59"},"1099":{"142":"168","93":"56"},"1100":{"142":"168","93":"57"},"1101":{"142":"168","93":"59"},"1102":{"142":"169","93":"56"},"1103":{"142":"169","93":"57"},"1104":{"142":"169","93":"59"},"1105":{"142":"170","93":"56"},"1106":{"142":"170","93":"57"},"1107":{"142":"170","93":"59"}},"salable":[],"canDisplayShowOutOfStockStatus":false,"channel":"website","salesChannelCode":"base","sku":{"1093":"WH05-XS-Orange","1094":"WH05-XS-Purple","1095":"WH05-XS-White","1096":"WH05-S-Orange","1097":"WH05-S-Purple","1098":"WH05-S-White","1099":"WH05-M-Orange","1100":"WH05-M-Purple","1101":"WH05-M-White","1102":"WH05-L-Orange","1103":"WH05-L-Purple","1104":"WH05-L-White","1105":"WH05-XL-Orange","1106":"WH05-XL-Purple","1107":"WH05-XL-White"}},
+                    "jsonSwatchConfig": {"142":{"166":{"type":"0","value":"XS","label":"XS"},"167":{"type":"0","value":"S","label":"S"},"168":{"type":"0","value":"M","label":"M"},"169":{"type":"0","value":"L","label":"L"},"170":{"type":"0","value":"XL","label":"XL"},"additional_data":"{\"swatch_input_type\":\"text\",\"update_product_preview_image\":1,\"use_product_image_for_swatch\":0}"},"93":{"56":{"type":"1","value":"#eb6703","label":"Orange"},"57":{"type":"1","value":"#ef3dff","label":"Purple"},"59":{"type":"1","value":"#ffffff","label":"White"},"additional_data":"{\"swatch_input_type\":\"visual\",\"update_product_preview_image\":1,\"use_product_image_for_swatch\":0}"}},
+                    "mediaCallback": "https\u003A\u002F\u002Fapp.magento2.test\u002Fswatches\u002Fajax\u002Fmedia\u002F",
+                    "jsonSwatchImageSizeConfig": {"swatchImage":{"width":30,"height":20},"swatchThumb":{"height":90,"width":110}},
+                    "showTooltip": 1                }
+            }
+        }
+    </script>
+
+    <script type="text/x-magento-init">
+        {
+            "[data-role=priceBox][data-price-box=product-id-1108]": {
+                "priceBox": {
+                    "priceConfig": {
+                        "priceFormat": {"pattern":"$%s","precision":2,"requiredPrecision":2,"decimalSymbol":".","groupSymbol":",","groupLength":3,"integerRequired":false},
+                        "prices": {"baseOldPrice":{"amount":42},"oldPrice":{"amount":42},"basePrice":{"amount":42},"finalPrice":{"amount":42}}                    }
+                }
+            }
+        }
+    </script>
+
+                                                                    <div class="product-item-inner">
+                                        <div class="product-item-actions">
+                                                                                            <div class="actions-primary">
+                                                                                                                                                                    <form data-role="tocart-form" data-product-sku="WH05" action="https://app.magento2.test/checkout/cart/add/uenc/aHR0cHM6Ly9hcHAubWFnZW50bzIudGVzdC93b21lbi5odG1s/product/1108/" method="post">
+                                                            <input type="hidden" name="product" value="1108">
+                                                            <input type="hidden" name="uenc" value="aHR0cHM6Ly9hcHAubWFnZW50bzIudGVzdC9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjSE02THk5aGNIQXViV0ZuWlc1MGJ6SXVkR1Z6ZEM5M2IyMWxiaTVvZEcxcy9wcm9kdWN0LzExMDgv">
+                                                            <input name="form_key" type="hidden" value="robJBuc8C4VEIZsa" />                                                            <button type="submit"
+                                                                    title="Add to Cart"
+                                                                    class="action tocart primary">
+                                                                <span>Add to Cart</span>
+                                                            </button>
+                                                        </form>
+                                                                                                    </div>
+                                                                                                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"https:\/\/app.magento2.test\/wishlist\/index\/add\/","data":{"product":1108,"uenc":"aHR0cHM6Ly9hcHAubWFnZW50bzIudGVzdC93b21lbi5odG1s"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"https:\/\/app.magento2.test\/catalog\/product_compare\/add\/","data":{"product":"1108","uenc":"aHR0cHM6Ly9hcHAubWFnZW50bzIudGVzdC93b21lbi5odG1s"}}' title="Add&#x20;to&#x20;Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                                                                    </div>
+                                    </div>
+                                                            </div>
+                        </div>
+                                                                    </li><li class="product-item">                        <div class="product-item-info">
+                            <a href="https://app.magento2.test/deirdre-relaxed-fit-capri.html" class="product-item-photo">
+                                <span class="product-image-container product-image-container-1896">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="https://app.magento2.test/media/catalog/product/cache/ddeb78d2f6735f535a8ca5351e57232f/w/p/wp12-gray_main_2.jpg"
+            loading="lazy"
+            width="240"
+            height="300"
+            alt="Deirdre&#x20;Relaxed-Fit&#x20;Capri"/></span>
+</span>
+<style>.product-image-container-1896 {
+    width: 240px;
+}
+.product-image-container-1896 span.product-image-wrapper {
+    padding-bottom: 125%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-1896");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "240px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-1896  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "125%";
+}</script>                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="Deirdre Relaxed-Fit Capri"
+                                       href="https://app.magento2.test/deirdre-relaxed-fit-capri.html"
+                                       class="product-item-link">
+                                        Deirdre Relaxed-Fit Capri                                    </a>
+                                </strong>
+                                                                                                    
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="1896" data-price-box="product-id-1896"><span class="normal-price">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">As low as</span>
+        <span  id="old-price-1896-widget-product-grid"                data-price-amount="63"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$63.00</span></span>
+        </span>
+</span>
+
+
+</div>
+                                                <div class="swatch-opt-1896"
+         data-role="swatch-option-1896"></div>
+
+    <script type="text/x-magento-init">
+        {
+            "[data-role=swatch-option-1896]": {
+                "Magento_Swatches/js/swatch-renderer": {
+                    "selectorProduct": ".product-item-details",
+                    "onlySwatches": true,
+                    "enableControlLabel": false,
+                    "numberToShow": 16,
+                    "jsonConfig": {"attributes":{"142":{"id":"142","code":"size","label":"Size","options":[{"id":"171","label":"28","products":["1890","1891","1892"]},{"id":"172","label":"29","products":["1893","1894","1895"]}],"position":"0"},"93":{"id":"93","code":"color","label":"Color","options":[{"id":"50","label":"Blue","products":["1890","1893"]},{"id":"52","label":"Gray","products":["1891","1894"]},{"id":"53","label":"Green","products":["1892","1895"]}],"position":"1"}},"template":"$<%- data.price %>","currencyFormat":"$%s","optionPrices":{"1890":{"baseOldPrice":{"amount":63},"oldPrice":{"amount":63},"basePrice":{"amount":63},"finalPrice":{"amount":63},"tierPrices":[],"msrpPrice":{"amount":0}},"1891":{"baseOldPrice":{"amount":63},"oldPrice":{"amount":63},"basePrice":{"amount":63},"finalPrice":{"amount":63},"tierPrices":[],"msrpPrice":{"amount":0}},"1892":{"baseOldPrice":{"amount":63},"oldPrice":{"amount":63},"basePrice":{"amount":63},"finalPrice":{"amount":63},"tierPrices":[],"msrpPrice":{"amount":0}},"1893":{"baseOldPrice":{"amount":63},"oldPrice":{"amount":63},"basePrice":{"amount":63},"finalPrice":{"amount":63},"tierPrices":[],"msrpPrice":{"amount":0}},"1894":{"baseOldPrice":{"amount":63},"oldPrice":{"amount":63},"basePrice":{"amount":63},"finalPrice":{"amount":63},"tierPrices":[],"msrpPrice":{"amount":0}},"1895":{"baseOldPrice":{"amount":63},"oldPrice":{"amount":63},"basePrice":{"amount":63},"finalPrice":{"amount":63},"tierPrices":[],"msrpPrice":{"amount":0}}},"priceFormat":{"pattern":"$%s","precision":2,"requiredPrecision":2,"decimalSymbol":".","groupSymbol":",","groupLength":3,"integerRequired":false},"prices":{"baseOldPrice":{"amount":63},"oldPrice":{"amount":63},"basePrice":{"amount":63},"finalPrice":{"amount":63}},"productId":"1896","chooseText":"Choose an Option...","images":[],"index":{"1890":{"142":"171","93":"50"},"1891":{"142":"171","93":"52"},"1892":{"142":"171","93":"53"},"1893":{"142":"172","93":"50"},"1894":{"142":"172","93":"52"},"1895":{"142":"172","93":"53"}},"salable":[],"canDisplayShowOutOfStockStatus":false,"channel":"website","salesChannelCode":"base","sku":{"1890":"WP12-28-Blue","1891":"WP12-28-Gray","1892":"WP12-28-Green","1893":"WP12-29-Blue","1894":"WP12-29-Gray","1895":"WP12-29-Green"}},
+                    "jsonSwatchConfig": {"142":{"171":{"type":"0","value":"28","label":"28"},"172":{"type":"0","value":"29","label":"29"},"additional_data":"{\"swatch_input_type\":\"text\",\"update_product_preview_image\":1,\"use_product_image_for_swatch\":0}"},"93":{"50":{"type":"1","value":"#1857f7","label":"Blue"},"52":{"type":"1","value":"#8f8f8f","label":"Gray"},"53":{"type":"1","value":"#53a828","label":"Green"},"additional_data":"{\"swatch_input_type\":\"visual\",\"update_product_preview_image\":1,\"use_product_image_for_swatch\":0}"}},
+                    "mediaCallback": "https\u003A\u002F\u002Fapp.magento2.test\u002Fswatches\u002Fajax\u002Fmedia\u002F",
+                    "jsonSwatchImageSizeConfig": {"swatchImage":{"width":30,"height":20},"swatchThumb":{"height":90,"width":110}},
+                    "showTooltip": 1                }
+            }
+        }
+    </script>
+
+    <script type="text/x-magento-init">
+        {
+            "[data-role=priceBox][data-price-box=product-id-1896]": {
+                "priceBox": {
+                    "priceConfig": {
+                        "priceFormat": {"pattern":"$%s","precision":2,"requiredPrecision":2,"decimalSymbol":".","groupSymbol":",","groupLength":3,"integerRequired":false},
+                        "prices": {"baseOldPrice":{"amount":63},"oldPrice":{"amount":63},"basePrice":{"amount":63},"finalPrice":{"amount":63}}                    }
+                }
+            }
+        }
+    </script>
+
+                                                                    <div class="product-item-inner">
+                                        <div class="product-item-actions">
+                                                                                            <div class="actions-primary">
+                                                                                                                                                                    <form data-role="tocart-form" data-product-sku="WP12" action="https://app.magento2.test/checkout/cart/add/uenc/aHR0cHM6Ly9hcHAubWFnZW50bzIudGVzdC93b21lbi5odG1s/product/1896/" method="post">
+                                                            <input type="hidden" name="product" value="1896">
+                                                            <input type="hidden" name="uenc" value="aHR0cHM6Ly9hcHAubWFnZW50bzIudGVzdC9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjSE02THk5aGNIQXViV0ZuWlc1MGJ6SXVkR1Z6ZEM5M2IyMWxiaTVvZEcxcy9wcm9kdWN0LzE4OTYv">
+                                                            <input name="form_key" type="hidden" value="robJBuc8C4VEIZsa" />                                                            <button type="submit"
+                                                                    title="Add to Cart"
+                                                                    class="action tocart primary">
+                                                                <span>Add to Cart</span>
+                                                            </button>
+                                                        </form>
+                                                                                                    </div>
+                                                                                                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"https:\/\/app.magento2.test\/wishlist\/index\/add\/","data":{"product":1896,"uenc":"aHR0cHM6Ly9hcHAubWFnZW50bzIudGVzdC93b21lbi5odG1s"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"https:\/\/app.magento2.test\/catalog\/product_compare\/add\/","data":{"product":"1896","uenc":"aHR0cHM6Ly9hcHAubWFnZW50bzIudGVzdC93b21lbi5odG1s"}}' title="Add&#x20;to&#x20;Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                                                                    </div>
+                                    </div>
+                                                            </div>
+                        </div>
+                        </li>                                    </ol>
+            </div>
+                    </div>
+    </div>
+        <script type="text/x-magento-init">
+    {
+        ".block.widget [data-role=tocart-form]": {
+            "Magento_Catalog/js/validate-product": {}
+        }
+    }
+    </script>
+    

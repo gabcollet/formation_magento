@@ -8,10 +8,10 @@ class Interceptor extends \SwiftOtter\OrderExport\Console\Command\OrderExport im
 {
     use \Magento\Framework\Interception\Interceptor;
 
-    public function __construct(?string $name = null)
+    public function __construct(\SwiftOtter\OrderExport\Model\HeaderDataFactory $headerDataFactory, \SwiftOtter\OrderExport\Action\CollectOrderData $collectOrderData, ?string $name = null)
     {
         $this->___init();
-        parent::__construct($name);
+        parent::__construct($headerDataFactory, $collectOrderData, $name);
     }
 
     /**
