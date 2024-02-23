@@ -513,6 +513,7 @@ class ComposerStaticInitfb8518d22ec459d770c27ab2b8996437
         'f3d4617c4b29f1082289d89745685dad' => __DIR__ . '/..' . '/magento/module-widget-sample-data/registration.php',
         '759d958743dba8d926c9111b82afe3e9' => __DIR__ . '/..' . '/magento/module-wishlist-sample-data/registration.php',
         '1fae4e8a6ca768e2f1074207ecf35c46' => __DIR__ . '/..' . '/markshust/magento2-module-disabletwofactorauth/registration.php',
+        '5646b322dfcb7a9edccb3c0f72655513' => __DIR__ . '/..' . '/swiftotter/module-mock-erp-api/registration.php',
         'b4cf39431a4b949eea8aa69ebb3d39da' => __DIR__ . '/../..' . '/app/etc/NonComposerComponentRegistration.php',
     );
 
@@ -575,6 +576,7 @@ class ComposerStaticInitfb8518d22ec459d770c27ab2b8996437
             'Symfony\\Component\\CssSelector\\' => 30,
             'Symfony\\Component\\Console\\' => 26,
             'Symfony\\Component\\Config\\' => 25,
+            'SwiftOtter\\MockErpApi\\' => 22,
             'SpomkyLabs\\Pki\\' => 15,
             'Seld\\Signal\\' => 12,
             'Seld\\PharUtils\\' => 15,
@@ -1260,6 +1262,10 @@ class ComposerStaticInitfb8518d22ec459d770c27ab2b8996437
         'Symfony\\Component\\Config\\' => 
         array (
             0 => __DIR__ . '/..' . '/symfony/config',
+        ),
+        'SwiftOtter\\MockErpApi\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/swiftotter/module-mock-erp-api',
         ),
         'SpomkyLabs\\Pki\\' => 
         array (

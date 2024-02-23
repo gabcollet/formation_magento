@@ -44,6 +44,7 @@ return array(
     'Symfony\\Component\\CssSelector\\' => array($vendorDir . '/symfony/css-selector'),
     'Symfony\\Component\\Console\\' => array($vendorDir . '/symfony/console'),
     'Symfony\\Component\\Config\\' => array($vendorDir . '/symfony/config'),
+    'SwiftOtter\\MockErpApi\\' => array($vendorDir . '/swiftotter/module-mock-erp-api'),
     'SpomkyLabs\\Pki\\' => array($vendorDir . '/spomky-labs/pki-framework/src'),
     'Seld\\Signal\\' => array($vendorDir . '/seld/signal-handler/src'),
     'Seld\\PharUtils\\' => array($vendorDir . '/seld/phar-utils/src'),

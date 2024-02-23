@@ -1876,3 +1876,262 @@ Did you mean one of these?
 #14 /var/www/html/vendor/symfony/console/Application.php(171): Magento\Framework\Console\Cli->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
 #15 /var/www/html/bin/magento(23): Symfony\Component\Console\Application->run()
 #16 {main} [] []
+[2024-02-23T14:45:18.663894+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-02-23T14:45:18.716240+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-02-23T14:45:18.947261+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-02-23T14:45:19.206869+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-02-23T14:45:19.245925+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-02-23T14:45:19.463502+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-02-23T14:45:21.979563+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 3334; Allocated memory size: 40008000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-02-23T15:12:00.909622+00:00] main.INFO: Item Magento_Backend::system_currency was removed [] []
+[2024-02-23T15:12:00.915190+00:00] main.INFO: Add of item with id Magento_Config::system_config was processed [] []
+[2024-02-23T15:12:00.915270+00:00] main.INFO: Add of item with id Magento_AdminNotification::system_adminnotification was processed [] []
+[2024-02-23T15:12:00.915303+00:00] main.INFO: Add of item with id Magento_Theme::design_config was processed [] []
+[2024-02-23T15:12:00.915328+00:00] main.INFO: Add of item with id Magento_Theme::system_design_theme was processed [] []
+[2024-02-23T15:12:00.915350+00:00] main.INFO: Add of item with id Magento_Backend::system_design_schedule was processed [] []
+[2024-02-23T15:12:00.915372+00:00] main.INFO: Add of item with id Magento_Backend::system_store was processed [] []
+[2024-02-23T15:12:00.915393+00:00] main.INFO: Add of item with id Magento_Backend::dashboard was processed [] []
+[2024-02-23T15:12:00.915413+00:00] main.INFO: Add of item with id Magento_Backend::system was processed [] []
+[2024-02-23T15:12:00.915440+00:00] main.INFO: Add of item with id Magento_Backend::system_tools was processed [] []
+[2024-02-23T15:12:00.915468+00:00] main.INFO: Add of item with id Magento_Backend::system_design was processed [] []
+[2024-02-23T15:12:00.915490+00:00] main.INFO: Add of item with id Magento_Backend::system_convert was processed [] []
+[2024-02-23T15:12:00.915516+00:00] main.INFO: Add of item with id Magento_Backend::system_cache was processed [] []
+[2024-02-23T15:12:00.915538+00:00] main.INFO: Add of item with id Magento_Backend::marketing was processed [] []
+[2024-02-23T15:12:00.915564+00:00] main.INFO: Add of item with id Magento_Backend::marketing_communications was processed [] []
+[2024-02-23T15:12:00.915587+00:00] main.INFO: Add of item with id Magento_Backend::marketing_seo was processed [] []
+[2024-02-23T15:12:00.915607+00:00] main.INFO: Add of item with id Magento_Backend::marketing_user_content was processed [] []
+[2024-02-23T15:12:00.915628+00:00] main.INFO: Add of item with id Magento_Backend::content was processed [] []
+[2024-02-23T15:12:00.915648+00:00] main.INFO: Add of item with id Magento_Backend::content_elements was processed [] []
+[2024-02-23T15:12:00.915668+00:00] main.INFO: Add of item with id Magento_Backend::stores was processed [] []
+[2024-02-23T15:12:00.915694+00:00] main.INFO: Add of item with id Magento_Backend::stores_settings was processed [] []
+[2024-02-23T15:12:00.915716+00:00] main.INFO: Add of item with id Magento_Backend::stores_attributes was processed [] []
+[2024-02-23T15:12:00.915736+00:00] main.INFO: Add of item with id Magento_Backend::other_settings was processed [] []
+[2024-02-23T15:12:00.915756+00:00] main.INFO: Add of item with id Magento_Backend::system_other_settings was processed [] []
+[2024-02-23T15:12:00.915776+00:00] main.INFO: Add of item with id Magento_User::system_acl was processed [] []
+[2024-02-23T15:12:00.915802+00:00] main.INFO: Add of item with id Magento_User::system_acl_users was processed [] []
+[2024-02-23T15:12:00.915824+00:00] main.INFO: Add of item with id Magento_User::system_acl_roles was processed [] []
+[2024-02-23T15:12:00.915845+00:00] main.INFO: Add of item with id Magento_User::system_acl_locks was processed [] []
+[2024-02-23T15:12:00.915865+00:00] main.INFO: Add of item with id Magento_Customer::customer was processed [] []
+[2024-02-23T15:12:00.915896+00:00] main.INFO: Add of item with id Magento_Customer::customer_manage was processed [] []
+[2024-02-23T15:12:00.915918+00:00] main.INFO: Add of item with id Magento_Customer::customer_online was processed [] []
+[2024-02-23T15:12:00.915938+00:00] main.INFO: Add of item with id Magento_Customer::customer_group was processed [] []
+[2024-02-23T15:12:00.915959+00:00] main.INFO: Add of item with id Magento_Backup::system_tools_backup was processed [] []
+[2024-02-23T15:12:00.915979+00:00] main.INFO: Add of item with id Magento_Indexer::system_index was processed [] []
+[2024-02-23T15:12:00.915999+00:00] main.INFO: Add of item with id Magento_Variable::system_variable was processed [] []
+[2024-02-23T15:12:00.916025+00:00] main.INFO: Add of item with id Magento_Cms::cms_page was processed [] []
+[2024-02-23T15:12:00.916050+00:00] main.INFO: Add of item with id Magento_Cms::cms_block was processed [] []
+[2024-02-23T15:12:00.916070+00:00] main.INFO: Add of item with id Magento_Catalog::catalog was processed [] []
+[2024-02-23T15:12:00.916096+00:00] main.INFO: Add of item with id Magento_Catalog::catalog_products was processed [] []
+[2024-02-23T15:12:00.916118+00:00] main.INFO: Add of item with id Magento_Catalog::catalog_categories was processed [] []
+[2024-02-23T15:12:00.916142+00:00] main.INFO: Add of item with id Magento_Catalog::catalog_attributes_attributes was processed [] []
+[2024-02-23T15:12:00.916165+00:00] main.INFO: Add of item with id Magento_Catalog::catalog_attributes_sets was processed [] []
+[2024-02-23T15:12:00.916190+00:00] main.INFO: Add of item with id Magento_Catalog::inventory was processed [] []
+[2024-02-23T15:12:00.916216+00:00] main.INFO: Add of item with id Magento_Search::search_terms was processed [] []
+[2024-02-23T15:12:00.916237+00:00] main.INFO: Add of item with id Magento_Search::search_synonyms was processed [] []
+[2024-02-23T15:12:00.916257+00:00] main.INFO: Add of item with id Magento_CatalogRule::promo was processed [] []
+[2024-02-23T15:12:00.916282+00:00] main.INFO: Add of item with id Magento_CatalogRule::promo_catalog was processed [] []
+[2024-02-23T15:12:00.916304+00:00] main.INFO: Add of item with id Magento_Sales::sales was processed [] []
+[2024-02-23T15:12:00.916330+00:00] main.INFO: Add of item with id Magento_Sales::sales_operation was processed [] []
+[2024-02-23T15:12:00.916356+00:00] main.INFO: Add of item with id Magento_Sales::sales_order was processed [] []
+[2024-02-23T15:12:00.916377+00:00] main.INFO: Add of item with id Magento_Sales::sales_invoice was processed [] []
+[2024-02-23T15:12:00.916398+00:00] main.INFO: Add of item with id Magento_Sales::sales_shipment was processed [] []
+[2024-02-23T15:12:00.916418+00:00] main.INFO: Add of item with id Magento_Sales::sales_creditmemo was processed [] []
+[2024-02-23T15:12:00.916438+00:00] main.INFO: Add of item with id Magento_Sales::sales_transactions was processed [] []
+[2024-02-23T15:12:00.916458+00:00] main.INFO: Add of item with id Magento_Sales::system_order_statuses was processed [] []
+[2024-02-23T15:12:00.916478+00:00] main.INFO: Add of item with id Magento_MediaGalleryUi::media was processed [] []
+[2024-02-23T15:12:00.916503+00:00] main.INFO: Add of item with id Magento_MediaGalleryUi::media_gallery was processed [] []
+[2024-02-23T15:12:00.916529+00:00] main.INFO: Add of item with id Magento_Downloadable::report_products_downloads was processed [] []
+[2024-02-23T15:12:00.916552+00:00] main.INFO: Add of item with id Magento_Integration::system_extensions was processed [] []
+[2024-02-23T15:12:00.916577+00:00] main.INFO: Add of item with id Magento_Integration::system_integrations was processed [] []
+[2024-02-23T15:12:00.916599+00:00] main.INFO: Add of item with id Magento_UrlRewrite::urlrewrite was processed [] []
+[2024-02-23T15:12:00.916620+00:00] main.INFO: Add of item with id Magento_Tax::sales_tax was processed [] []
+[2024-02-23T15:12:00.916645+00:00] main.INFO: Add of item with id Magento_Tax::sales_tax_rules was processed [] []
+[2024-02-23T15:12:00.916666+00:00] main.INFO: Add of item with id Magento_Tax::sales_tax_rates was processed [] []
+[2024-02-23T15:12:00.916688+00:00] main.INFO: Add of item with id Magento_Widget::cms_widget_instance was processed [] []
+[2024-02-23T15:12:00.916713+00:00] main.INFO: Add of item with id Magento_Analytics::business_intelligence was processed [] []
+[2024-02-23T15:12:00.916739+00:00] main.INFO: Add of item with id Magento_Analytics::advanced_reporting was processed [] []
+[2024-02-23T15:12:00.916761+00:00] main.INFO: Add of item with id Magento_Analytics::bi_essentials was processed [] []
+[2024-02-23T15:12:00.916786+00:00] main.INFO: Add of item with id Magento_ImportExport::system_convert_import was processed [] []
+[2024-02-23T15:12:00.916807+00:00] main.INFO: Add of item with id Magento_ImportExport::system_convert_export was processed [] []
+[2024-02-23T15:12:00.916829+00:00] main.INFO: Add of item with id Magento_ImportExport::system_convert_history was processed [] []
+[2024-02-23T15:12:00.916853+00:00] main.INFO: Add of item with id Magento_Email::template was processed [] []
+[2024-02-23T15:12:00.916875+00:00] main.INFO: Add of item with id Magento_EncryptionKey::system_crypt_key was processed [] []
+[2024-02-23T15:12:00.916896+00:00] main.INFO: Add of item with id Magento_InventoryAdminUi::inventory was processed [] []
+[2024-02-23T15:12:00.916921+00:00] main.INFO: Add of item with id Magento_InventoryAdminUi::source was processed [] []
+[2024-02-23T15:12:00.916943+00:00] main.INFO: Add of item with id Magento_InventoryAdminUi::stock was processed [] []
+[2024-02-23T15:12:00.916963+00:00] main.INFO: Add of item with id Magento_Reports::report was processed [] []
+[2024-02-23T15:12:00.916984+00:00] main.INFO: Add of item with id Magento_Reports::report_marketing was processed [] []
+[2024-02-23T15:12:00.917004+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot was processed [] []
+[2024-02-23T15:12:00.917029+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_sales was processed [] []
+[2024-02-23T15:12:00.917051+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_tax was processed [] []
+[2024-02-23T15:12:00.917073+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_invoiced was processed [] []
+[2024-02-23T15:12:00.917095+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_shipping was processed [] []
+[2024-02-23T15:12:00.917116+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_refunded was processed [] []
+[2024-02-23T15:12:00.917138+00:00] main.INFO: Add of item with id Magento_Reports::report_salesroot_coupons was processed [] []
+[2024-02-23T15:12:00.917164+00:00] main.INFO: Add of item with id Magento_Reports::report_shopcart_product was processed [] []
+[2024-02-23T15:12:00.917187+00:00] main.INFO: Add of item with id Magento_Reports::report_shopcart_abandoned was processed [] []
+[2024-02-23T15:12:00.917210+00:00] main.INFO: Add of item with id Magento_Reports::report_products was processed [] []
+[2024-02-23T15:12:00.917230+00:00] main.INFO: Add of item with id Magento_Reports::report_products_bestsellers was processed [] []
+[2024-02-23T15:12:00.917250+00:00] main.INFO: Add of item with id Magento_Reports::report_products_sold was processed [] []
+[2024-02-23T15:12:00.917270+00:00] main.INFO: Add of item with id Magento_Reports::report_products_viewed was processed [] []
+[2024-02-23T15:12:00.917290+00:00] main.INFO: Add of item with id Magento_Reports::report_products_lowstock was processed [] []
+[2024-02-23T15:12:00.917310+00:00] main.INFO: Add of item with id Magento_Reports::report_customers was processed [] []
+[2024-02-23T15:12:00.917335+00:00] main.INFO: Add of item with id Magento_Reports::report_customers_accounts was processed [] []
+[2024-02-23T15:12:00.917357+00:00] main.INFO: Add of item with id Magento_Reports::report_customers_totals was processed [] []
+[2024-02-23T15:12:00.917377+00:00] main.INFO: Add of item with id Magento_Reports::report_customers_orders was processed [] []
+[2024-02-23T15:12:00.917397+00:00] main.INFO: Add of item with id Magento_Reports::report_statistics was processed [] []
+[2024-02-23T15:12:00.917424+00:00] main.INFO: Add of item with id Magento_Reports::report_statistics_refresh was processed [] []
+[2024-02-23T15:12:00.917447+00:00] main.INFO: Add of item with id Magento_Search::report_search_term was processed [] []
+[2024-02-23T15:12:00.917467+00:00] main.INFO: Add of item with id Magento_LoginAsCustomerLog::login_log was processed [] []
+[2024-02-23T15:12:00.917487+00:00] main.INFO: Add of item with id Magento_Marketplace::partners was processed [] []
+[2024-02-23T15:12:00.917508+00:00] main.INFO: Add of item with id Magento_Newsletter::newsletter_template was processed [] []
+[2024-02-23T15:12:00.917528+00:00] main.INFO: Add of item with id Magento_Newsletter::newsletter_queue was processed [] []
+[2024-02-23T15:12:00.917549+00:00] main.INFO: Add of item with id Magento_Newsletter::newsletter_subscriber was processed [] []
+[2024-02-23T15:12:00.917569+00:00] main.INFO: Add of item with id Magento_Newsletter::newsletter_problem was processed [] []
+[2024-02-23T15:12:00.917589+00:00] main.INFO: Add of item with id Magento_SalesRule::promo_quote was processed [] []
+[2024-02-23T15:12:00.917609+00:00] main.INFO: Add of item with id Magento_Sitemap::catalog_sitemap was processed [] []
+[2024-02-23T15:12:00.917629+00:00] main.INFO: Add of item with id Magento_PageBuilder::templates was processed [] []
+[2024-02-23T15:12:00.917649+00:00] main.INFO: Add of item with id Magento_Paypal::report_salesroot_paypal_settlement_reports was processed [] []
+[2024-02-23T15:12:00.917670+00:00] main.INFO: Add of item with id Magento_Paypal::paypal_billing_agreement was processed [] []
+[2024-02-23T15:12:00.917690+00:00] main.INFO: Add of item with id Magento_Review::catalog_reviews_ratings_ratings was processed [] []
+[2024-02-23T15:12:00.917716+00:00] main.INFO: Add of item with id Magento_Review::catalog_reviews_ratings_pending was processed [] []
+[2024-02-23T15:12:00.917738+00:00] main.INFO: Add of item with id Magento_Review::catalog_reviews_ratings_reviews_all was processed [] []
+[2024-02-23T15:12:00.917758+00:00] main.INFO: Add of item with id Magento_Review::report_review was processed [] []
+[2024-02-23T15:12:00.917784+00:00] main.INFO: Add of item with id Magento_Review::report_review_customer was processed [] []
+[2024-02-23T15:12:00.917805+00:00] main.INFO: Add of item with id Magento_Review::report_review_product was processed [] []
+[2024-02-23T15:12:00.917825+00:00] main.INFO: Add of item with id Magento_CheckoutAgreements::sales_checkoutagreement was processed [] []
+[2024-02-23T15:12:00.917846+00:00] main.INFO: Add of item with id Magento_TaxImportExport::system_convert_tax was processed [] []
+[2024-02-23T15:12:00.917866+00:00] main.INFO: Add of item with id Magento_AsynchronousOperations::system_magento_logging was processed [] []
+[2024-02-23T15:12:00.917892+00:00] main.INFO: Add of item with id Magento_AsynchronousOperations::system_magento_logging_bulk_operations was processed [] []
+[2024-02-23T15:12:00.917914+00:00] main.INFO: Add of item with id Magento_CurrencySymbol::system_currency was processed [] []
+[2024-02-23T15:12:00.917939+00:00] main.INFO: Add of item with id Magento_CurrencySymbol::system_currency_rates was processed [] []
+[2024-02-23T15:12:00.917960+00:00] main.INFO: Add of item with id Magento_CurrencySymbol::system_currency_symbols was processed [] []
+[2024-02-23T15:12:00.917981+00:00] main.INFO: Add of item with id PayPal_Braintree::settlement_report was processed [] []
+[2024-02-23T15:12:00.918001+00:00] main.INFO: Add of item with id PayPal_Braintree::virtual_terminal was processed [] []
+[2024-02-23T15:44:29.203479+00:00] main.ERROR: There are no commands defined in the "order-export" namespace.
+#0 /home/gcollet/formation/vendor/symfony/console/Application.php(701): Symfony\Component\Console\Application->findNamespace()
+#1 /home/gcollet/formation/vendor/symfony/console/Application.php(259): Symfony\Component\Console\Application->find()
+#2 /home/gcollet/formation/vendor/magento/framework/Console/Cli.php(116): Symfony\Component\Console\Application->doRun()
+#3 /home/gcollet/formation/vendor/symfony/console/Application.php(171): Magento\Framework\Console\Cli->doRun()
+#4 /home/gcollet/formation/bin/magento(23): Symfony\Component\Console\Application->run()
+#5 {main} [] []
+[2024-02-23T15:46:24.628738+00:00] main.ERROR: There are no commands defined in the "orderExport" namespace.
+#0 /var/www/html/vendor/symfony/console/Application.php(701): Symfony\Component\Console\Application->findNamespace('orderExport')
+#1 /var/www/html/vendor/symfony/console/Application.php(259): Symfony\Component\Console\Application->find('orderExport:run')
+#2 /var/www/html/vendor/magento/framework/Console/Cli.php(116): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#3 /var/www/html/vendor/symfony/console/Application.php(171): Magento\Framework\Console\Cli->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#4 /var/www/html/bin/magento(23): Symfony\Component\Console\Application->run()
+#5 {main} [] []
+[2024-02-23T15:46:43.720220+00:00] main.ERROR: There are no commands defined in the "order-export" namespace.
+#0 /var/www/html/vendor/symfony/console/Application.php(701): Symfony\Component\Console\Application->findNamespace('order-export')
+#1 /var/www/html/vendor/symfony/console/Application.php(259): Symfony\Component\Console\Application->find('order-export:ru...')
+#2 /var/www/html/vendor/magento/framework/Console/Cli.php(116): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#3 /var/www/html/vendor/symfony/console/Application.php(171): Magento\Framework\Console\Cli->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#4 /var/www/html/bin/magento(23): Symfony\Component\Console\Application->run()
+#5 {main} [] []
+[2024-02-23T15:47:53.276147+00:00] main.ERROR: There are no commands defined in the "order-export" namespace.
+
+Did you mean this?
+    orderExport
+#0 /var/www/html/vendor/symfony/console/Application.php(701): Symfony\Component\Console\Application->findNamespace('order-export')
+#1 /var/www/html/vendor/symfony/console/Application.php(259): Symfony\Component\Console\Application->find('order-export:ru...')
+#2 /var/www/html/vendor/magento/framework/Console/Cli.php(116): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#3 /var/www/html/vendor/symfony/console/Application.php(171): Magento\Framework\Console\Cli->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#4 /var/www/html/bin/magento(23): Symfony\Component\Console\Application->run()
+#5 {main} [] []
+[2024-02-23T15:48:02.387505+00:00] main.ERROR: cURL error 7: Failed to connect to app.magento2.test port 443: Connection refused (see https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://app.magento2.test/mock_erp_api
+#0 /var/www/html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(158): GuzzleHttp\Handler\CurlFactory::createRejection(Object(GuzzleHttp\Handler\EasyHandle), Array)
+#1 /var/www/html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(110): GuzzleHttp\Handler\CurlFactory::finishError(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#2 /var/www/html/vendor/guzzlehttp/guzzle/src/Handler/CurlHandler.php(47): GuzzleHttp\Handler\CurlFactory::finish(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#3 /var/www/html/vendor/guzzlehttp/guzzle/src/Handler/Proxy.php(28): GuzzleHttp\Handler\CurlHandler->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#4 /var/www/html/vendor/guzzlehttp/guzzle/src/Handler/Proxy.php(48): GuzzleHttp\Handler\Proxy::GuzzleHttp\Handler\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#5 /var/www/html/vendor/guzzlehttp/guzzle/src/PrepareBodyMiddleware.php(64): GuzzleHttp\Handler\Proxy::GuzzleHttp\Handler\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#6 /var/www/html/vendor/guzzlehttp/guzzle/src/Middleware.php(31): GuzzleHttp\PrepareBodyMiddleware->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#7 /var/www/html/vendor/guzzlehttp/guzzle/src/RedirectMiddleware.php(71): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#8 /var/www/html/vendor/guzzlehttp/guzzle/src/Middleware.php(66): GuzzleHttp\RedirectMiddleware->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#9 /var/www/html/vendor/guzzlehttp/guzzle/src/HandlerStack.php(75): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#10 /var/www/html/vendor/guzzlehttp/guzzle/src/Client.php(333): GuzzleHttp\HandlerStack->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#11 /var/www/html/vendor/guzzlehttp/guzzle/src/Client.php(169): GuzzleHttp\Client->transfer(Object(GuzzleHttp\Psr7\Request), Array)
+#12 /var/www/html/vendor/guzzlehttp/guzzle/src/Client.php(189): GuzzleHttp\Client->requestAsync('POST', Object(GuzzleHttp\Psr7\Uri), Array)
+#13 /var/www/html/vendor/guzzlehttp/guzzle/src/ClientTrait.php(95): GuzzleHttp\Client->request('POST', 'https://app.mag...', Array)
+#14 /var/www/html/app/code/SwiftOtter/OrderExport/Action/PushDetailsToWebservice.php(35): GuzzleHttp\Client->post('https://app.mag...', Array)
+#15 /var/www/html/app/code/SwiftOtter/OrderExport/Action/ExportOrder.php(44): SwiftOtter\OrderExport\Action\PushDetailsToWebservice->execute(Array, Object(Magento\Sales\Model\Order\Interceptor))
+#16 /var/www/html/app/code/SwiftOtter/OrderExport/Console/Command/OrderExport.php(79): SwiftOtter\OrderExport\Action\ExportOrder->execute(3, Object(SwiftOtter\OrderExport\Model\HeaderData))
+#17 /var/www/html/vendor/symfony/console/Command/Command.php(298): SwiftOtter\OrderExport\Console\Command\OrderExport->execute(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#18 /var/www/html/vendor/magento/framework/Interception/Interceptor.php(58): Symfony\Component\Console\Command\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#19 /var/www/html/vendor/magento/framework/Interception/Interceptor.php(138): SwiftOtter\OrderExport\Console\Command\OrderExport\Interceptor->___callParent('run', Array)
+#20 /var/www/html/vendor/magento/framework/Interception/Interceptor.php(153): SwiftOtter\OrderExport\Console\Command\OrderExport\Interceptor->Magento\Framework\Interception\{closure}(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#21 /var/www/html/generated/code/SwiftOtter/OrderExport/Console/Command/OrderExport/Interceptor.php(77): SwiftOtter\OrderExport\Console\Command\OrderExport\Interceptor->___callPlugins('run', Array, Array)
+#22 /var/www/html/vendor/symfony/console/Application.php(1040): SwiftOtter\OrderExport\Console\Command\OrderExport\Interceptor->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#23 /var/www/html/vendor/symfony/console/Application.php(301): Symfony\Component\Console\Application->doRunCommand(Object(SwiftOtter\OrderExport\Console\Command\OrderExport\Interceptor), Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#24 /var/www/html/vendor/magento/framework/Console/Cli.php(116): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#25 /var/www/html/vendor/symfony/console/Application.php(171): Magento\Framework\Console\Cli->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#26 /var/www/html/bin/magento(23): Symfony\Component\Console\Application->run()
+#27 {main} [] []
+[2024-02-23T18:54:38.342804+00:00] main.ERROR: cURL error 60: SSL: no alternative certificate subject name matches target host name 'app.magento2.test' (see https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://app.magento2.test/mock_erp_api
+#0 /var/www/html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(158): GuzzleHttp\Handler\CurlFactory::createRejection(Object(GuzzleHttp\Handler\EasyHandle), Array)
+#1 /var/www/html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(110): GuzzleHttp\Handler\CurlFactory::finishError(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#2 /var/www/html/vendor/guzzlehttp/guzzle/src/Handler/CurlHandler.php(47): GuzzleHttp\Handler\CurlFactory::finish(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#3 /var/www/html/vendor/guzzlehttp/guzzle/src/Handler/Proxy.php(28): GuzzleHttp\Handler\CurlHandler->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#4 /var/www/html/vendor/guzzlehttp/guzzle/src/Handler/Proxy.php(48): GuzzleHttp\Handler\Proxy::GuzzleHttp\Handler\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#5 /var/www/html/vendor/guzzlehttp/guzzle/src/PrepareBodyMiddleware.php(64): GuzzleHttp\Handler\Proxy::GuzzleHttp\Handler\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#6 /var/www/html/vendor/guzzlehttp/guzzle/src/Middleware.php(31): GuzzleHttp\PrepareBodyMiddleware->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#7 /var/www/html/vendor/guzzlehttp/guzzle/src/RedirectMiddleware.php(71): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#8 /var/www/html/vendor/guzzlehttp/guzzle/src/Middleware.php(66): GuzzleHttp\RedirectMiddleware->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#9 /var/www/html/vendor/guzzlehttp/guzzle/src/HandlerStack.php(75): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#10 /var/www/html/vendor/guzzlehttp/guzzle/src/Client.php(333): GuzzleHttp\HandlerStack->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#11 /var/www/html/vendor/guzzlehttp/guzzle/src/Client.php(169): GuzzleHttp\Client->transfer(Object(GuzzleHttp\Psr7\Request), Array)
+#12 /var/www/html/vendor/guzzlehttp/guzzle/src/Client.php(189): GuzzleHttp\Client->requestAsync('POST', Object(GuzzleHttp\Psr7\Uri), Array)
+#13 /var/www/html/vendor/guzzlehttp/guzzle/src/ClientTrait.php(95): GuzzleHttp\Client->request('POST', 'https://app.mag...', Array)
+#14 /var/www/html/app/code/SwiftOtter/OrderExport/Action/PushDetailsToWebservice.php(35): GuzzleHttp\Client->post('https://app.mag...', Array)
+#15 /var/www/html/app/code/SwiftOtter/OrderExport/Action/ExportOrder.php(44): SwiftOtter\OrderExport\Action\PushDetailsToWebservice->execute(Array, Object(Magento\Sales\Model\Order\Interceptor))
+#16 /var/www/html/app/code/SwiftOtter/OrderExport/Console/Command/OrderExport.php(79): SwiftOtter\OrderExport\Action\ExportOrder->execute(3, Object(SwiftOtter\OrderExport\Model\HeaderData))
+#17 /var/www/html/vendor/symfony/console/Command/Command.php(298): SwiftOtter\OrderExport\Console\Command\OrderExport->execute(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#18 /var/www/html/vendor/magento/framework/Interception/Interceptor.php(58): Symfony\Component\Console\Command\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#19 /var/www/html/vendor/magento/framework/Interception/Interceptor.php(138): SwiftOtter\OrderExport\Console\Command\OrderExport\Interceptor->___callParent('run', Array)
+#20 /var/www/html/vendor/magento/framework/Interception/Interceptor.php(153): SwiftOtter\OrderExport\Console\Command\OrderExport\Interceptor->Magento\Framework\Interception\{closure}(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#21 /var/www/html/generated/code/SwiftOtter/OrderExport/Console/Command/OrderExport/Interceptor.php(77): SwiftOtter\OrderExport\Console\Command\OrderExport\Interceptor->___callPlugins('run', Array, Array)
+#22 /var/www/html/vendor/symfony/console/Application.php(1040): SwiftOtter\OrderExport\Console\Command\OrderExport\Interceptor->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#23 /var/www/html/vendor/symfony/console/Application.php(301): Symfony\Component\Console\Application->doRunCommand(Object(SwiftOtter\OrderExport\Console\Command\OrderExport\Interceptor), Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#24 /var/www/html/vendor/magento/framework/Console/Cli.php(116): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#25 /var/www/html/vendor/symfony/console/Application.php(171): Magento\Framework\Console\Cli->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#26 /var/www/html/bin/magento(23): Symfony\Component\Console\Application->run()
+#27 {main} [] []
+[2024-02-23T18:59:36.216212+00:00] main.ERROR: Client error: `POST https://app.magento2.test/mock_erp_api` resulted in a `404 Not Found` response:
+404 page not found
+
+
+#0 /var/www/html/vendor/guzzlehttp/guzzle/src/Middleware.php(72): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response), NULL, Array, NULL)
+#1 /var/www/html/vendor/guzzlehttp/promises/src/Promise.php(209): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 /var/www/html/vendor/guzzlehttp/promises/src/Promise.php(158): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), NULL)
+#3 /var/www/html/vendor/guzzlehttp/promises/src/TaskQueue.php(52): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 /var/www/html/vendor/guzzlehttp/promises/src/Promise.php(251): GuzzleHttp\Promise\TaskQueue->run(true)
+#5 /var/www/html/vendor/guzzlehttp/promises/src/Promise.php(227): GuzzleHttp\Promise\Promise->invokeWaitFn()
+#6 /var/www/html/vendor/guzzlehttp/promises/src/Promise.php(272): GuzzleHttp\Promise\Promise->waitIfPending()
+#7 /var/www/html/vendor/guzzlehttp/promises/src/Promise.php(229): GuzzleHttp\Promise\Promise->invokeWaitList()
+#8 /var/www/html/vendor/guzzlehttp/promises/src/Promise.php(69): GuzzleHttp\Promise\Promise->waitIfPending()
+#9 /var/www/html/vendor/guzzlehttp/guzzle/src/Client.php(189): GuzzleHttp\Promise\Promise->wait()
+#10 /var/www/html/vendor/guzzlehttp/guzzle/src/ClientTrait.php(95): GuzzleHttp\Client->request('POST', 'https://app.mag...', Array)
+#11 /var/www/html/app/code/SwiftOtter/OrderExport/Action/PushDetailsToWebservice.php(36): GuzzleHttp\Client->post('https://app.mag...', Array)
+#12 /var/www/html/app/code/SwiftOtter/OrderExport/Action/ExportOrder.php(44): SwiftOtter\OrderExport\Action\PushDetailsToWebservice->execute(Array, Object(Magento\Sales\Model\Order\Interceptor))
+#13 /var/www/html/app/code/SwiftOtter/OrderExport/Console/Command/OrderExport.php(79): SwiftOtter\OrderExport\Action\ExportOrder->execute(3, Object(SwiftOtter\OrderExport\Model\HeaderData))
+#14 /var/www/html/vendor/symfony/console/Command/Command.php(298): SwiftOtter\OrderExport\Console\Command\OrderExport->execute(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#15 /var/www/html/vendor/magento/framework/Interception/Interceptor.php(58): Symfony\Component\Console\Command\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#16 /var/www/html/vendor/magento/framework/Interception/Interceptor.php(138): SwiftOtter\OrderExport\Console\Command\OrderExport\Interceptor->___callParent('run', Array)
+#17 /var/www/html/vendor/magento/framework/Interception/Interceptor.php(153): SwiftOtter\OrderExport\Console\Command\OrderExport\Interceptor->Magento\Framework\Interception\{closure}(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#18 /var/www/html/generated/code/SwiftOtter/OrderExport/Console/Command/OrderExport/Interceptor.php(77): SwiftOtter\OrderExport\Console\Command\OrderExport\Interceptor->___callPlugins('run', Array, Array)
+#19 /var/www/html/vendor/symfony/console/Application.php(1040): SwiftOtter\OrderExport\Console\Command\OrderExport\Interceptor->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#20 /var/www/html/vendor/symfony/console/Application.php(301): Symfony\Component\Console\Application->doRunCommand(Object(SwiftOtter\OrderExport\Console\Command\OrderExport\Interceptor), Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#21 /var/www/html/vendor/magento/framework/Console/Cli.php(116): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#22 /var/www/html/vendor/symfony/console/Application.php(171): Magento\Framework\Console\Cli->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#23 /var/www/html/bin/magento(23): Symfony\Component\Console\Application->run()
+#24 {main} [] []
+[2024-02-23T21:25:34.805879+00:00] main.ERROR: cURL error 7: Failed to connect to app.magento2.test port 443: Connection refused (see https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://app.magento2.test/mock_erp_api {"details":{"id":"000000003","currency":"USD","discount":"0.0000","total":"110.6700","shipping":{"name":"Veronica Costello","address":"6146 Honey Bluff Parkway","city":"Calder","state":"MI","postcode":"49628-7978","country":"US","amount":"10.0000","method":"Flat Rate - Fixed","ship_on":""},"items":[{"sku":"24-MB02-OVERRIDE","qty":"1.0000","item_price":"59.0000","item_cost":null,"total":"59.0000"},{"sku":"WT09-M-White","qty":"1.0000","item_price":"0.0000","item_cost":null,"total":"0.0000"}],"merchant_notes":""}} []
+[2024-02-23T21:25:43.284523+00:00] main.ERROR: cURL error 7: Failed to connect to app.magento2.test port 443: Connection refused (see https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://app.magento2.test/mock_erp_api {"details":{"id":"000000003","currency":"USD","discount":"0.0000","total":"110.6700","shipping":{"name":"Veronica Costello","address":"6146 Honey Bluff Parkway","city":"Calder","state":"MI","postcode":"49628-7978","country":"US","amount":"10.0000","method":"Flat Rate - Fixed","ship_on":""},"items":[{"sku":"24-MB02-OVERRIDE","qty":"1.0000","item_price":"59.0000","item_cost":null,"total":"59.0000"},{"sku":"WT09-M-White","qty":"1.0000","item_price":"0.0000","item_cost":null,"total":"0.0000"}],"merchant_notes":""}} []
+[2024-02-23T21:45:27.025509+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-02-23T21:45:27.066289+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-02-23T21:45:27.204485+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-02-23T21:45:27.396915+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-02-23T21:45:27.424705+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-02-23T21:45:27.559407+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 100000; Allocated memory size: 50000000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []
+[2024-02-23T21:45:29.204319+00:00] main.WARNING: Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: 3334; Allocated memory size: 40008000 bytes; InnoDB buffer pool size: 134217728 bytes. [] []

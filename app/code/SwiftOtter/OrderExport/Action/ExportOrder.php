@@ -7,22 +7,26 @@ use Magento\Sales\Api\OrderRepositoryInterface;
 use Magento\Store\Model\ScopeInterface;
 use SwiftOtter\OrderExport\Model\HeaderData;
 use SwiftOtter\OrderExport\Model\Config;
+use SwiftOtter\OrderExport\Action\PushDetailsToWebservice;
 
 class ExportOrder
 {
     private OrderRepositoryInterface $orderRepository;
     private Config $config;
     private CollectOrderData $collectOrderData;
+    private PushDetailsToWebservice $pushDetailsToWebservice;
 
     public function __construct(
         OrderRepositoryInterface $orderRepository,
         Config $config,
-        CollectOrderData $collectOrderData
+        CollectOrderData $collectOrderData,
+        PushDetailsToWebservice $pushDetailsToWebservice
     )
     {
         $this->orderRepository = $orderRepository;
         $this->config = $config;
         $this->collectOrderData = $collectOrderData;
+        $this->pushDetailsToWebservice = $pushDetailsToWebservice;
     }
 
     public function execute(int $orderId, HeaderData $headerData): array
@@ -33,10 +37,16 @@ class ExportOrder
             throw new LocalizedException(__('Order export is disabled'));
         }
 
-        $result = ['success' => false, 'error' => null];
+        $results = ['success' => false, 'error' => null];
 
         $exportData = $this->collectOrderData->execute($order, $headerData);
 
-        return $result;
+        try {
+            $results['success'] = $this->pushDetailsToWebservice->execute($exportData, $order);
+        } catch (\Throwable $ex) {
+            $results['error'] = $ex->getMessage();
+        }
+
+        return $results;
     }
 }

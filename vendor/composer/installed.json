@@ -25931,6 +25931,34 @@
             "install-path": "../squizlabs/php_codesniffer"
         },
         {
+            "name": "swiftotter/module-mock-erp-api",
+            "version": "dev-main",
+            "version_normalized": "dev-main",
+            "dist": {
+                "type": "path",
+                "url": "training-modules/project-professional-developer/src/mock-erp-api",
+                "reference": "6d7132002a23a5068143b8756bca89135b5d0835"
+            },
+            "require": {
+                "magento/framework": "^103"
+            },
+            "type": "magento2-module",
+            "installation-source": "dist",
+            "autoload": {
+                "files": [
+                    "registration.php"
+                ],
+                "psr-4": {
+                    "SwiftOtter\\MockErpApi\\": ""
+                }
+            },
+            "transport-options": {
+                "symlink": true,
+                "relative": true
+            },
+            "install-path": "../swiftotter/module-mock-erp-api"
+        },
+        {
             "name": "symfony/config",
             "version": "v6.4.0",
             "version_normalized": "6.4.0.0",

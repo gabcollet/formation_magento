@@ -41,7 +41,8 @@
         "magento/module-wishlist-sample-data": "100.4.*",
         "magento/product-community-edition": "2.4.6-p3",
         "magento/sample-data-media": "100.4.*",
-        "markshust/magento2-module-disabletwofactorauth": "^2.0"
+        "markshust/magento2-module-disabletwofactorauth": "^2.0",
+        "swiftotter/module-mock-erp-api": "dev-main"
     },
     "autoload": {
         "exclude-from-classmap": [

@@ -5005,6 +5005,15 @@
             'reference' => '14f5fff1e64118595db5408e946f3a22c75807f7',
             'dev_requirement' => true,
         ),
+        'swiftotter/module-mock-erp-api' => array(
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'type' => 'magento2-module',
+            'install_path' => __DIR__ . '/../swiftotter/module-mock-erp-api',
+            'aliases' => array(),
+            'reference' => '6d7132002a23a5068143b8756bca89135b5d0835',
+            'dev_requirement' => false,
+        ),
         'symfony/config' => array(
             'pretty_version' => 'v6.4.0',
             'version' => '6.4.0.0',
